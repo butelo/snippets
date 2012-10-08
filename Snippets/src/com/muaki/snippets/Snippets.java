@@ -11,7 +11,7 @@ import android.widget.ListView;
 
 public class Snippets extends ListActivity {
 	
-	 String tests[] = { "LifeCycleTest", "SingleTouchTest", "MultiTouchTest",
+	 String tests[] = { "LifeCycleTest", "ParseadorSax", "SingleTouchTest", "MultiTouchTest",
 	            "KeyTest", "AccelerometerTest", "AssetsTest",
 	            "ExternalStorageTest", "SoundPoolTest", "MediaPlayerTest",
 	            "FullScreenTest", "WakeLockTest", "RenderViewTest", "ShapeTest", "BitmapTest",

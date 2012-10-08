@@ -25,6 +25,11 @@
         <activity android:label="Life Cycle Test" 
 		          android:name=".LifeCycleTest"	
 		          android:configChanges="keyboard|keyboardHidden|orientation" />
+        
+        
+                <activity android:label="Parseador Sax" 
+		          android:name=".ParseadorSax"	
+		          android:configChanges="keyboard|keyboardHidden|orientation" />
     </application>
 
 </manifest>
